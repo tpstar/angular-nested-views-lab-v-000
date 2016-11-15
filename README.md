@@ -2,7 +2,7 @@
 
 ## Objectives
 
-- Integrate a nested view with our application
+1. Integrate a nested view with our application
 
 ## Instructions
 
@@ -11,3 +11,4 @@ For this repo you'll need to run `npm install` and the `node server.js` to run a
 Let's build a mini fake Twitter. We've got a home page, and inside that home page we'd like to have the nested views for the user's timeline, their notifications and a user profile.
 
 Configure the four routes that we need, with the correct URLs and templates. Also - configure the navigation for our home page!
+<p class='util--hide'>View <a href='https://learn.co/lessons/angular-nested-views-lab'>Angular Nested Views Lab</a> on Learn.co and start learning to code for free.</p>
